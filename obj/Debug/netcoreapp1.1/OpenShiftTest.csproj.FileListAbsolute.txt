@@ -1,0 +1,10 @@
+C:\Users\Amit Cohen\source\repos\OpenShiftTest\OpenShiftTest\bin\Debug\netcoreapp1.1\OpenShiftTest.deps.json
+C:\Users\Amit Cohen\source\repos\OpenShiftTest\OpenShiftTest\bin\Debug\netcoreapp1.1\OpenShiftTest.runtimeconfig.json
+C:\Users\Amit Cohen\source\repos\OpenShiftTest\OpenShiftTest\bin\Debug\netcoreapp1.1\OpenShiftTest.runtimeconfig.dev.json
+C:\Users\Amit Cohen\source\repos\OpenShiftTest\OpenShiftTest\bin\Debug\netcoreapp1.1\OpenShiftTest.dll
+C:\Users\Amit Cohen\source\repos\OpenShiftTest\OpenShiftTest\bin\Debug\netcoreapp1.1\OpenShiftTest.pdb
+C:\Users\Amit Cohen\source\repos\OpenShiftTest\OpenShiftTest\obj\Debug\netcoreapp1.1\OpenShiftTest.csprojResolveAssemblyReference.cache
+C:\Users\Amit Cohen\source\repos\OpenShiftTest\OpenShiftTest\obj\Debug\netcoreapp1.1\OpenShiftTest.csproj.CoreCompileInputs.cache
+C:\Users\Amit Cohen\source\repos\OpenShiftTest\OpenShiftTest\obj\Debug\netcoreapp1.1\OpenShiftTest.AssemblyInfo.cs
+C:\Users\Amit Cohen\source\repos\OpenShiftTest\OpenShiftTest\obj\Debug\netcoreapp1.1\OpenShiftTest.dll
+C:\Users\Amit Cohen\source\repos\OpenShiftTest\OpenShiftTest\obj\Debug\netcoreapp1.1\OpenShiftTest.pdb
